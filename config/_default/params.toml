@@ -17,7 +17,7 @@ fingerprintAlgorithm = "sha256"
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -29,8 +29,8 @@ fingerprintAlgorithm = "sha256"
 [article]
   showDate = true
   showDateUpdated = false
-  showAuthor = true
-  showBreadcrumbs = false
+  showAuthor = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -39,9 +39,9 @@ fingerprintAlgorithm = "sha256"
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showTaxonomies = false
-  showWordCount = false
+  showWordCount = true
   showComments = false
   sharingLinks = ["telegram"]
 
