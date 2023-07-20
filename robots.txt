@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://farhaduneci.github.io/sitemap.xml
