@@ -1,10 +1,9 @@
 theme = "congo"
 
-baseURL = "https://farhaduneci.github.io/"
+baseURL = "https://farhaduneci.github.io/softwarexplore/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-enableGitInfo = true
 
 paginate = 10
 summaryLength = 0
